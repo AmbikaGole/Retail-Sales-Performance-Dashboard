@@ -6,7 +6,7 @@ An interactive **Power BI** dashboard analysing **100,000 retail transactions ($
 
 > **Bottom line:** South Region generated **$36M** versus West Region's **$9M**, a **$27M gap**. Product mix is the first place to look; local competition and supply-chain delays are the next hypotheses to test.
 
-![Dashboard overview](Images/dashboard_overview.png)
+![Dashboard overview](dashboard_overview.png)
 
 
 
@@ -20,9 +20,8 @@ An interactive **Power BI** dashboard analysing **100,000 retail transactions ($
 | 4 | **Credit dominates and is growing** | Credit sales consistently exceed cash sales across 2021–2025 |
 
 ### The regional gap
-![Total sales by department, South vs West](Images/regional_gap.png)
+![Total sales by department, South vs West](regional_gap.png)
 
----
 
 ## Recommendations
 - **Diagnose the West Region first.** Compare its product mix against the South Region to find gaps
@@ -36,7 +35,7 @@ An interactive **Power BI** dashboard analysing **100,000 retail transactions ($
 - **Data cleaning and transformation** in Power Query
 - **DAX calendar table** for time-intelligence analysis:
 
-![DAX date table](Images/dax_date_table.png)
+![DAX date table](dax_date_table.png)
 
 - Performance benchmarking across **sales departments, 5 customer types** (Wholesale, Corporate, Retail, Online, VIP) and **7 product categories**
 - Root-cause framing of the regional performance gap
