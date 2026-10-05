@@ -44,6 +44,6 @@ An interactive **Power BI** dashboard analysing **100,000 retail transactions ($
 The dashboard identifies **where** the gap is, but not yet **why**. Confirming root causes would require external data such as local competitor presence and supply-chain lead times.
 
 ## Tools
-Power BI · Power Query · Tableau · DAX · Microsoft Excel
+Power BI · Power Query · DAX · Microsoft Excel
 
 *Academic project, Master of Business Analytics, Macquarie University.*
